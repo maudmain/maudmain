@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maudmain
-- 👀 I’m interested in nature walk, discovering new wines/ wine regions, spending tim with family and friends.
+- 👀 I’m interested in nature walks, discovering new wines/ wine regions, spending time with family and friends.
 - 🌱 I’m currently learning HTML, CSS
 - 💞️ I’m looking to collaborate on basic project to get me started on my learning.
 - 📫 Reach me here on GitHub
