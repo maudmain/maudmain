@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maudmain
-- 👀 I’m interested in nature walks, discovering new wines/ wine regions, spending time with family and friends.
-- 🌱 I’m currently learning HTML, CSS
+- 👀 I’m interested in space exploration and engineering, nature walks, discovering new wines/ wine regions, spending time with family and friends.
+- 🌱 I’m currently learning HTML, CSS, Boostrap nad Javascript
 - 💞️ I’m looking to collaborate on basic project to get me started on my learning.
 - 📫 Reach me here on GitHub
 
